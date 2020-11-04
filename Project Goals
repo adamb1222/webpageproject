@@ -1,0 +1,14 @@
+
+Steps to take to integrate issues into our workflow and start on Web Page Project
+
+
+GOALS: Today we’ll group project repo to get started to build our web pages
+Create group project repo, add collaborators 
+Identify keywords to divide and conquer, design, outline etc.
+Create issues in GitHub to build keyword docs, design.txt, outline.txt, etc.
+Select a unique issue and assign it to ourselves.
+Clone the repo to your desktop and create a branch for your work (outline-initial, etc)
+Create your keyword doc, design.txt and place info in it.
+Add the file, and  commit using keywords, “closes #2” for example for issue 2
+Push the change and create a pull request so another on your team can merge your info
+After the info is merged, delete the branch
